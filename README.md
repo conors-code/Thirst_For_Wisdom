@@ -1,7 +1,7 @@
 # Game Design Document Season - Thirst for Wisdom
 Game Design built on Awesome Ajuna Avatars, for the Ajuna Bounty : Zink Team in The Encode x Polkadot Spring 2023 hackathon
 ## GAME OVERVIEW
-###About
+### About
 Aimed primarily at late primary & secondary school level (ages 11 – 17) with increasing difficulty,
 to make learning competitive and so more interesting. There can be an 18+ for those who have
 completed second level schooling too.
@@ -30,20 +30,20 @@ For this season, the tiers will be Common, Rare and Legendary (+ elevation to My
 ### Forging
 Forging is similar to existing AAA, to ensure that the mechanism is familiar to existing users, with
 the following specialisations:
-• Challenges don’t have time limits (with one exception, see ending below). Higher speed
+* Challenges don’t have time limits (with one exception, see ending below). Higher speed
 (lower time to completion) when completing prior challenges gives higher Soul Points when
 next forging an AAA.
-• “Neighbourliness” is determined by the challenge topics solved by the avatar.
-◦ Arithmetic is a neighbour of geometry / trigonometry and algebra
-◦ geometry / trigonometry is a neighbour of Arithmetic and probability
-◦ Probability is a neighbour of geometry / trigonometry and algebra
-◦ Algebra is a neighbour of probability and Arithmetic.
-• Rare avatars gain one animal each that is associated with wisdom in different cultures: owl,
+* “Neighbourliness” is determined by the challenge topics solved by the avatar.
+  * Arithmetic is a neighbour of geometry / trigonometry and algebra
+  * geometry / trigonometry is a neighbour of Arithmetic and probability
+  * Probability is a neighbour of geometry / trigonometry and algebra
+  * Algebra is a neighbour of probability and Arithmetic.
+* Rare avatars gain one animal each that is associated with wisdom in different cultures: owl,
 snake, tortoise, salmon, elephant or fox. These can be traded for other animals – with or
 without supplementary BAJU going one way - but cannot be sold just for BAJU.
-• Legendary avatars also gain cloaks with cowls and a long staff, reminiscent of herbalists or
+* Legendary avatars also gain cloaks with cowls and a long staff, reminiscent of herbalists or
 wizards/witches. These are in a many colours.
-• To attain Mythic status, a Legendary AAA can choose to do more challenges. A random one
+* To attain Mythic status, a Legendary AAA can choose to do more challenges. A random one
 will be picked to have a time limit of under the median time of similar challenges completed
 by that player. If they complete within the time limit, the AAA evolves into mythic.
 As before, the season ends after the 888th* Legendary AAA is forged, once the season ends, no
