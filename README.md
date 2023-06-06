@@ -24,6 +24,7 @@ Same as existing Awesome Ajuna Avatars
 ### Concept Art
 Based on the AAA websites style
 ### Game Flow
+![Image of Thirst for Wisdom Game Flow](assets/gameflow.png "Thirst for Wisdom Game Flow")
 ### Tiers
 For this season, the tiers will be Common, Rare and Legendary (+ elevation to Mythic)
 ## Key Features
